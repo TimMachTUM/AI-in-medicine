@@ -1,0 +1,14 @@
+torch>=1.8.0
+torchvision>=0.9.0
+medmnist>=2.0.2
+matplotlib>=3.3.4
+numpy>=1.19.5
+pandas>=1.2.0
+seaborn>=0.11.1
+tqdm>=4.56.0
+torchsummary>=1.5.1
+pytorch-grad-cam>=0.2.1
+opencv-python>=4.5.1 
+Pillow>=8.1.0
+requests>=2.25.1
+nibabel>=3.2.1
